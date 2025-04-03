@@ -22,9 +22,19 @@
 
 ## EJ: Caso de la cerveza y los pañales
 
-En una cadena de almacenes (Wal-Mart o Costcol analizaron los datos de compras de sus clientes
+En una cadena de almacenes (Wal-Mart o Costcol) analizaron los datos de compras de sus clientes
 
-**Data=** Los registro de los articulos que habían comprado, juntp con datos relativos a la hora
+**Data=** Los registro de los articulos que habían comprado, junto con datos relativos a la hora, el género del comprador y la edad
+
+**Information=** Se descubrió una alta correlación entre (compradores hombres, compras entre 5pm y 7pm, pañales, cervezas)
+
+**Knowledge=** Saber que los padres, después de salir del trabajp, suelen comprar pañales y también cervezas
+
+**Wisdom=** Implementar nuevas estrategias de publicidad y mercadeo
+
+## Esquema general aplicxaciones en ciencias de los datos
+
+
 
 
   
