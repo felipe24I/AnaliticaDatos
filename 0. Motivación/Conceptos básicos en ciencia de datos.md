@@ -8,6 +8,6 @@
 - **Datos=** 3.5 , 4.0 , 4.5 (números sin contexto)
 - **Información=** Las calificaciones de Felipe en matemáticas fueron 3.5, 4.0, 4.5 lo que indica una mejora progresiva
 
-  ## Pirámide DIKW
+## Pirámide DIKW
 
   
