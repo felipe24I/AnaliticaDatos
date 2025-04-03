@@ -1,3 +1,3 @@
 # AnaliticaDatos
 
-En este repositorio, se encontrará la información y entregas del curos de analítica de datos
+En este repositorio, se encontrará la información y entregas del curso de analítica de datos
