@@ -10,4 +10,21 @@
 
 ## Pirámide DIKW
 
+![image](https://github.com/user-attachments/assets/4945555d-2815-476a-ac1f-4925ee2eb4ad)
+
+**1. Datos=** Son valores brutos sin procesar, pueden ser estructurados (Base de Datos) o no estructurados (imágenes, texto)
+
+**2. Información=** Resulta de organizar, procesar e interpretar los datos en un contexto
+
+**3. Conocimiento=** Surge cuando la información se analiza para encontrar patrones y tendencias
+
+**4. Sabiduria o toma de desiciones=** Se utiliza el conocimiento para tomar decisiones estratégicas y resolver problemas
+
+## EJ: Caso de la cerveza y los pañales
+
+En una cadena de almacenes (Wal-Mart o Costcol analizaron los datos de compras de sus clientes
+
+**Data=** Los registro de los articulos que habían comprado, juntp con datos relativos a la hora
+
+
   
